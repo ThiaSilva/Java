@@ -5,4 +5,4 @@
 <h3> Projetos <h3>
 
 <li> Jogo de Dados
-<li> Sistema Bancario 2 Versoes 
+<li> Sistema Bancario
