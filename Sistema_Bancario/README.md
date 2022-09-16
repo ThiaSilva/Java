@@ -1,4 +1,4 @@
-<h1 align=center> Sistema Bancario 2.0 </h1>
+<h1 align=center> Sistema Bancario </h1>
 
 <li> <b> Objetivo </b> </li>
 
@@ -11,11 +11,13 @@ Este projeto conta uma classe de abstracao de conta bancaria, com os atributos d
 
 A conta pode executar tres operacoes, Deposito, Saque e Extrato da conta, onde e possível ver o valor atual.
 
-<li> <b> Atualização  </b> </li>
-
-Mantendo as anteriores funcoes da outra versao, mas agora atribuindo o encapsulamento e a padronizacao das classes com JavaBean.
-<h4> O que foi implementado:   <h4>
+<h4> JavaBean:   <h4>
 
 <li> <b> Um Construtor Padrão  </b> </li>
 <li> <b> Encapsulamento   </b> </li>
 <li> <b> Uma classe "Serializable"  </b> </li>
+
+<h5> TESTE <h5>
+
+
+![Sistema_bancario](https://user-images.githubusercontent.com/90474673/190544404-cc81ebda-6f95-4132-9641-983a3f1373d5.PNG)
